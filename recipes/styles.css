@@ -1,0 +1,15 @@
+*{background-color: cadetblue;
+border: 0em brown;
+font-style: italic;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
+h1 {color: darkred;
+font-size: 100px;}
+
+h2 {color: darkmagenta;
+font-size: 70px;}
+
+ul, ol{color: black;
+font-size: 30px;}
+
